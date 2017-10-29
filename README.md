@@ -1,2 +1,1 @@
 # ThePeople
-types of people
