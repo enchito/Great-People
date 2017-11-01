@@ -1,0 +1,7 @@
+var arr = [ 1, 2, 3, 4, 5 ]
+arr.push('6')
+arr.unshift('0')
+var max = Math.max.apply(null, arr);
+alert(max)
+var arr = arr.slice(2, 5)
+alert( arr )
